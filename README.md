@@ -43,7 +43,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Resources Used
 
-- YouTube
 - Some basic knowledge of 'useReducer' hook to get the redux basics.
 - Redux Toolkit Docs.
 - Material UI Docs.
