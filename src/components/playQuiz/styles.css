@@ -1,0 +1,9 @@
+.congrats {
+  width: 200px;
+}
+
+@media (max-width: 400px) {
+  .congrats {
+    width: 100px;
+  }
+}

@@ -1,0 +1,13 @@
+.nav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: rgb(15, 14, 14);
+  padding: 10px;
+}
+.activenav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(17, 17, 254);
+  position: relative;
+  text-decoration: none;
+  padding: 10px;
+}
