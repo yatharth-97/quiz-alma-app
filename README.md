@@ -1,8 +1,8 @@
 # AlmaBetter Quiz App
 
-An app where users can build and play their own questions on a user-friendly quiz platform developed using React.js, Redux Toolkit, and Material UI design. It has responsive design, quiz generation, and an easy-to-use, user interface. The quiz management is made simple by the admin panel that is part of the platform. This project serves as an example of my ability to create basic web applications and highlights my knowledge in basics of web development.
+An app where users can build and play their own questions on a user-friendly quiz platform developed using React.js, Redux Toolkit, and Material UI design. It has responsive design, quiz generation, and an easy-to-use interface. The quiz management is made simple by the admin panel that is part of the platform. This project serves as an example of my ability to create basic web applications and highlights my knowledge in basics of web development.
 
-### _Check out the live project_ [here]() ⭐
+### _Check out the live project_ [here](https://almabetter-quiz-app.netlify.app/) ⭐
 
 ## Reflection 💠
 
@@ -43,7 +43,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Resources Used
 
-- YouTube
 - Some basic knowledge of 'useReducer' hook to get the redux basics.
 - Redux Toolkit Docs.
 - Material UI Docs.
