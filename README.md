@@ -8,7 +8,7 @@ An app where users can build and play their own questions on a user-friendly qui
 
 - This was a 3 week long project built during my second module of Frontend Development at AlmaBetter. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.
 
-- Originally I wanted to build an application using _'useReducer'_ hook or _context API_ that I learned in the React Basics classes. But I went according to the guidelines and learned redux toolkit and implemented in the project. I bootstrapped this project by starting with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+- Originally I wanted to build an application using _'useReducer'_ hook or _context API_ that I learned in the React Basics classes but went according to the guidelines and learned redux toolkit and implemented in the project.
 
 - One of the main challenges I ran into was _state_ and _payload_. This lead me to spend a few days on a research spike into learning **CRUD** using _redux toolkit_. Due to project time constraints, I had to forgo my idea of implementing a sidebar using _Drawer_ of Material Ui and implementing a Footer that does not hinder the responsiveness.
 
